@@ -1,2 +1,2 @@
-# PythonExamples
-some useful python examples
+# PythonPlotLearning
+some useful python plot examples
